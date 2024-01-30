@@ -4,11 +4,6 @@
 *A todo manager that you didn't ask for, but needed !* \
 to make sure that you complete your tasks on time ;)
 
-[![GitHub issues](https://img.shields.io/github/issues/kraanzu/dooit?color=red&style=for-the-badge)](https://github.com/kraanzu/doit/issues)
-[![GitHub stars](https://img.shields.io/github/stars/kraanzu/dooit?color=green&style=for-the-badge)](https://github.com/kraanzu/doit/stargazers)
-[![GitHub license](https://img.shields.io/github/license/kraanzu/dooit?color=yellow&style=for-the-badge)](https://github.com/kraanzu/doit/blob/main/LICENSE)
-[![Support Server](https://img.shields.io/discord/989186205025464390.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/WA2ER9MBWa)
-
 # Installation 🔨
 
 Dooit can be installed with various package managers!
@@ -70,9 +65,12 @@ Head over to [wiki](https://github.com/kraanzu/dooit/wiki/Configuration) to know
 - Want to contribute? Feel free to open a PR! 😸
 - Got some ideas for improvements? I'm all ears! 👂
 
-----------------------------
-
-#### Other TUI projects 🤓 :
-If you liked dooit then you might wanna try out some of my other TUI projects as well
-- [smassh](https://github.com/kraanzu/smassh) - A typing-test app for terminal
-- [gupshup](https://github.com/kraanzu/gupshup) - A localhost TUI chat client
+<h2 align="left"><b>Connect with me</b></h4>
+<p align="left">
+<a href="https://twitter.com/@chavalasantosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@santoshchavala" height="30" width="40" /></a>
+<a href="https://instagram.com/chavalasantosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="santoshchavala" height="30" width="40" /></a>
+</p>
+ 
+<h2 align='left'><u><b>License and Copyright</b></u></h2>
+Lisence: MIT Lisence<br>
+&#169; 2021 santosh
